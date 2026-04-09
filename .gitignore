@@ -1,3 +1,7 @@
 backend/node_modules/
 backend/.env
 backend/exercise_logs.db
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
